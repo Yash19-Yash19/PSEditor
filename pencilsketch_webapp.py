@@ -47,4 +47,4 @@ else:
 
 st.write("Courtesy: itsyou  - [Sketch Code](https://github.com/Yash19-Yash19/PSEditor)")
 
-st.markdown("![](https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg=200x200)")
+st.markdown("![](https://avatars.githubusercontent.com/u/73273674?s=400&u=2eedf54ee0e7d1bfd8eafc4a78f574074ace7130&v=4)")
