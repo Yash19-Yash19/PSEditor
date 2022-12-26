@@ -16,7 +16,8 @@ def pencilsketch(inp_img):
     return(final_img)
 
 
-st.title("PencilSketcher App - updated streamlit camera 📷 module")
+# st.title("PencilSketcher App - updated streamlit camera 📷 module")
+st.title("PencilSketcher App - Let's Fun with you...........")
 st.write("This Web App is to help convert your photos to realistic Pencil Sketches")
 
 # collect the user input 
