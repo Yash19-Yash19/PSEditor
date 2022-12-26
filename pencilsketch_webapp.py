@@ -45,6 +45,6 @@ else:
      st.write("You haven't uploaded any image file")
    
 
-st.write("Courtesy:itsyou - [Sketch Code](https://github.com/Yash19-Yash19/PSEditor)")
+st.write("Courtesy: itsyou  - [Sketch Code](https://github.com/Yash19-Yash19/PSEditor)")
 
 st.markdown("![](https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg=200x200)")
