@@ -6,7 +6,7 @@
 import streamlit as st #web app and camera
 import numpy as np # for image processing 
 from PIL import Image #Image processing 
-import cv2 #computer vision 
+from cv2 import cv2 #computer vision 
 import os
 import time
 
