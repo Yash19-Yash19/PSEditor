@@ -52,7 +52,7 @@ if rad=="Home":
 
 
 # adding ballons animation
-    st.balloons()
+    # st.balloons()
 
 
     # connecting download features to sidebar functions
