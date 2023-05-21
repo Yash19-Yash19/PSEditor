@@ -6,7 +6,7 @@
 
  # How does it worK?
  
-1. Upload your image.
+1. Upload or capture your image.
 2. Convert it.
 3. Download your output file (png/jpg/jpeg).
 
