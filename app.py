@@ -57,7 +57,7 @@ if rad=="Home":
 
     # connecting download features to sidebar functions
     with st.sidebar:
-            st.title("PDF to Text")
+            st.title("Image to Pensil Sketch")
             textOutput = st.selectbox(
                 "How do you want your output data?",
                 ('Select an option','Capture Image', 'Upload Image'))
